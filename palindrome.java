@@ -6,8 +6,6 @@ public class palindrome{
                 //not palindrome
                 return false;
             }
-
-
         }
         return true;
     }
